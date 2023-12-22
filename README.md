@@ -1,4 +1,4 @@
-![Header image](/images/header.jpg ':class=header-image-full-width')
+![Header image](/images/header.jpg ':class=header-image-full-width :no-zoom')
 
 # Your name here
 
