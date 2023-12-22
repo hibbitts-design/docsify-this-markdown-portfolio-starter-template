@@ -29,6 +29,8 @@
 </div>
 </div>
 
+<!-- This line and everything below it can be deleted -->
+
 ---
 
 This example [Docsify-This Student Portfolio Starter](https://github.com/hibbitts-design/docsify-this-markdown-portfolio-starter) (designed to be viewable both on GitHub and with Docsify-This) is based on the [Markdown Portfolio](https://github.com/thoresonjd/markdown-portfolio-template) template by [@thoresonjd](https://github.com/thoresonjd), as is originally described below:
