@@ -1,4 +1,4 @@
-![Header image](/images/header.jpg ':class=header-image-full-width :no-zoom')
+![Header image](images/114-1280x267-blur_5.jpg ':class=header-image-full-width :no-zoom')
 
 [« Back to main page](README.md)
 
