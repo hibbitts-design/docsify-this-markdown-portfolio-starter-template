@@ -1,4 +1,4 @@
-![Header image](/images/header.jpg ':class=header-image-full-width :no-zoom')
+![Header image](https://picsum.photos/1280/375?blur ':class=header-image-full-width :no-zoom')
 
 # Your name here
 
