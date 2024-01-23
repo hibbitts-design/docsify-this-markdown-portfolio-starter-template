@@ -1,7 +1,3 @@
-> **This is a testing-only repository. View the main project repository at https://github.com/hibbitts-design/docsify-this-markdown-student-portfolio-starter.**
-
-<br />
-
 ![Header image](https://picsum.photos/1280/400?blur=3 ':class=header-image-full-width :no-zoom')
 
 # Your name here
